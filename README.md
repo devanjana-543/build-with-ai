@@ -51,14 +51,22 @@ Upload your demo video to Google Drive and paste the shareable link here(max 3 m
 ## Installation Steps
 
 ```bash
-# Clone the repository
-git clone <your-repo-link>
+#  Clone the repository
 
-# Go to project folder
-cd project-name
+git clone https://github.com/your-devanjana-543/build-with-ai.git
 
-# Install dependencies
+2. Navigate to project folder
+
+cd build-with-ai
+
+3. Install dependencies
+
 npm install
 
-# Run the project
+4. Run the project
+
 npm start
+
+---
+
+ 
