@@ -1,19 +1,29 @@
-# Project Name
+# deepfake and misinformation detection platform
 
 ## Problem Statement
-Explain clearly what problem your project is solving.
+With the rapid growth of AI-generated content, deepfake videos and misinformation are spreading widely across social media. This creates serious risks including fake news, identity misuse, and loss of trust in digital content. There is a need for an intelligent system to detect and flag such harmful content.
 
 ## Project Description
-Describe your solution, how it works, and what makes it useful.
-
+This project is an AI-powered platform designed to detect deepfake content and misinformation. Users can upload text, images, or videos, and the system analyzes them using AI models to determine authenticity.
+The platform provides:
+Detection of AI-generated (deepfake) media
+Identification of misleading or false information in text
+Confidence score indicating reliability
+Simple and user-friendly interface
 ---
 
 ## Google AI Usage
 ### Tools / Models Used
+Google AI Studio
+Gemini API (LLM)
 - 
 
 ### How Google AI Was Used
-Explain clearly how AI is integrated into your project.
+Google Gemini AI is used to:
+Analyze text content and detect misinformation patterns
+Evaluate context and credibility of information
+Assist in identifying suspicious or AI-generated content
+Prompt-based AI evaluation is used to classify whether the content is real or potentially fake.
 
 ---
 
